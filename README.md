@@ -56,7 +56,13 @@
 
 <br clear="both">
 
-<div align="center">
+<img align="right" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l6ejlsczNrd3QzbWNscDk0Z242a2w2bzlrM3ZzbzZjMXdwMXpoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.webp"  />
+
+###
+
+<br clear="both">
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Ghaith-sahli&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ghaith-sahli&theme=gruvbox&column=-1&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
@@ -89,8 +95,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Ghaith-sahli/Ghaith-sahli/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -102,9 +106,5 @@
 
 <div align="left">
 </div>
-
-###
-
-<img align="right" height="150" src=""  />
 
 ###
