@@ -60,9 +60,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Ghaith-sahli&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ghaith-sahli&theme=gruvbox&column=-1&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
@@ -94,6 +92,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ghaith-sahli/Ghaith-sahli/output/snake.svg" alt="Snake animation" />
 
